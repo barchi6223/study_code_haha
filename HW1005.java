@@ -4,7 +4,7 @@ public class HW1005{
     public static void main(String[] argv){
         int m,n,x=0,a=0,ans;
         Scanner input = new Scanner(System.in);
-        System.out.println("俄式乘法");
+        System.out.println("輸入m與n做俄式乘法");
         System.out.print("請輸入m:");
         m=input.nextInt();
         System.out.print("請輸入n:");
